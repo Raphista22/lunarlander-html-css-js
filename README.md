@@ -6,7 +6,7 @@
 
 Probar el juego (en testeo aun) !!  "link del juego"
 
-#DESCRIPCIÓN DE PROYECTO:
+# DESCRIPCIÓN DE PROYECTO:
 
 Tengo que desarrollar el proyecto de Miguel, el me ha pasado sus ideas. Los archivos que me ha facilitado no están optimizados para el uso real por parte de usuario, he realizado varias modificaciones las cuales son :
 

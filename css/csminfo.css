@@ -1,14 +1,1 @@
-body{font-size:3vw;
-background:url(../img/Background.jpg) no-repeat center center fixed;
-background-size: cover;
-z-index: -2;
-}
-#text { 
-		position:relative;
-		display:inline-block ; 
-		top:90px;
-		left:17%;
-}
-#text img {
-	height:250px;
-		}
+body{font-size:3vw;background:url(../img/Background.jpg) no-repeat center center fixed;background-size:cover;z-index:-2}#text{position:relative;display:inline-block;top:90px;left:17%}#text img{height:250px}

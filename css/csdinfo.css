@@ -1,0 +1,11 @@
+body{font-size:3vw;
+background:url(../img/Background.jpg) no-repeat center center fixed;
+background-size: cover;
+z-index: -2;
+}
+#text { 
+		position:relative;
+		top:100px;
+		display:inline ; 
+		left:430px;
+}

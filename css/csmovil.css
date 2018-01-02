@@ -1,0 +1,137 @@
+
+body{font-size:3vw;
+background:url(../img/BackgroundMov.png) no-repeat center center fixed;
+background-size: cover;
+}
+.a{ position:relative;
+	list-style-type:none;
+	right:40px;
+	}
+
+.b{width:62px;
+	}
+
+.c{
+	position:absolute;
+	width:140px;
+	height:200px;
+	display:inline-block;
+	}
+.a,.b,.c{display:inline-block;width:33.33%;height:100%;float:left;}
+
+.d{position:relative;	
+	top:350px;
+	}
+
+#nave{text-align:center;position:fixed;top:5%;width:140px;height:140px;left:31%;}
+
+#nave img{height:100%;}
+
+
+#cpanel{
+	color:white;
+	list-style-position: none;
+	list-style-type: none;
+	border:1px;
+	margin:1px;
+	font-size: 122%;
+	text-transform: capitalize;
+	
+	
+}
+#freno {
+	position:absolute;
+	right: 0px;
+	}
+	#faia {
+	position:absolute;
+	left:0px;
+	}
+      
+	  {---------- Tabla desplegable-------------}
+/* Dropdown Button */
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: absolute;
+	right: 50px;
+    display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+	
+}
+
+
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
+	{------------Sprite-------------------}
+
+
+#bmenu, #bpausa, #bseguir, #breiniciar, #binstruc, #freno, #faia{
+	line-height:65px;
+	height:62px;
+	width:62px;
+	background-image:url(../img/Mspr.png);
+	background-repeat: no-repeat;
+	border-style: solid;
+	border-color: blue;
+}
+#bmenu{
+	background-position:0px 0px;
+	
+} 
+#bpausa{
+	background-position:0px -65px;
+	
+}
+ #bseguir{
+	background-position:0px -130px;
+		 margin-top: 5px;
+} 
+#breiniciar {
+	background-position:0px -195px;
+	
+} 
+#binstruc{
+	background-position:0px -260px;
+	
+} 
+#faia{
+	background-position:0px -325px;
+	
+} #freno{
+	background-position:0px -390px;
+	
+}
+
+
+	
+	
+	
+#bmenu:hover, #bpausa:hover, #bseguir:hover, #breiniciar:hover, #binstruc:hover, #freno:hover, #faia:hover{
+		border-color: green;
+	 border-style: solid;
+	
+}
+
+	
+	

@@ -1,8 +1,8 @@
-# lunarlander-html-css-js
+
 
 # Proyecto de videojuego  LUNAR LANDER en html, css y javascript
-# Autor: Rafael Astorga Mora 
-# Cliente: Miguel Urbina 
+ Autor: Rafael Astorga Mora 
+ Cliente: Miguel Urbina 
 
 Probar el juego (en testeo aun) !!  "link del juego"
 

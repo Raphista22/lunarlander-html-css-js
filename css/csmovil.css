@@ -83,45 +83,6 @@ background-size: cover;
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
-	{------------Sprite-------------------}
-
-
-#bmenu, #bpausa, #bseguir, #breiniciar, #binstruc, #freno, #faia{
-	line-height:65px;
-	height:62px;
-	width:62px;
-	background-image:url(../img/Mspr.png);
-	background-repeat: no-repeat;
-	border-style: solid;
-	border-color: blue;
-}
-#bmenu{
-	background-position:0px 0px;
-	
-} 
-#bpausa{
-	background-position:0px -65px;
-	
-}
- #bseguir{
-	background-position:0px -130px;
-		 margin-top: 5px;
-} 
-#breiniciar {
-	background-position:0px -195px;
-	
-} 
-#binstruc{
-	background-position:0px -260px;
-	
-} 
-#faia{
-	background-position:0px -325px;
-	
-} #freno{
-	background-position:0px -390px;
-	
-}
 
 
 	

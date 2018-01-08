@@ -95,75 +95,7 @@ z-index: -2;
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
 .show {display:block;}
 
-								{------------Sprite-------------------}
 
-
-#bmenu, #bpausa, #bseguir, #breiniciar, #binstruc, #freno, #faia{
-	
-	background-image:url(../img/spr.png);
-	border-radius:0px;
-	-moz-border-radius:0px;
-	-webkit-border-radius:0px;
-}
-#bmenu{
-	background-position:0px 0px;
-	line-height:85px;
-	height:85px;
-	width:85px;
-	border-style: solid;
-	border-color: blue;
-} 
-#bpausa{
-	background-position:0px -85px;
-	line-height:85px;
-	height:85px;
-	width:85px;
-	border-style: solid;
-	 border-color: blue;
-	
-}
- #bseguir{
-	background-position:0px -170px;
-	line-height:85px;
-	height:85px;
-	width:85px;
-	border-style: solid;
-	 border-color: blue;
-	 margin-top: 5px;
-} 
-#breiniciar {
-	background-position:0px -255px;
-	line-height:85px;
-	height:85px;
-	width:85px;
-	border-style: solid;
-	 border-color: blue;
-} 
-#binstruc{
-	background-position:0px -340px;
-	line-height:85px;
-	height:85px;
-	width:85px;
-	border-style: solid;
-	 border-color: blue;
-} 
-#faia{
-	background-position:0px -425px;
-	line-height:85px;
-	height:85px;
-	width:85px;
-	
-	border-style: solid;
-	 border-color: blue;
-} #freno{
-	background-position:0px -510px;
-	line-height:85px;
-	height:85px;
-	width:85px;
-	
-	border-style: solid;
-	 border-color: blue;
-}
 
 	
 #bmenu:hover, #bpausa:hover, #bseguir:hover, #breiniciar:hover, #binstruc:hover, #freno:hover, #faia:hover{

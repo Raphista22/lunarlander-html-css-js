@@ -7,11 +7,9 @@
  Cliente: Miguel Urbina 
 
 Probar el juego (en testeo aun) !!  "link del juego"
-https://cdn.rawgit.com/Raphista22/lunarlander-html-css-js/1247f230/Nave.html
+https://cdn.rawgit.com/Raphista22/lunarlander-html-css-js/41aece95/Nave.html
 
-# importante leer antes de probar
 
-el validador genera errores debidos a la falta de el atributo alt="" en las imagenes, debido a que las imagenes son sprites el alt debe de ir vacio, el validador da error tanto si alt="" es eliminado como si se muestra vacio, porlotanto no se tratara como error de codigo. 
 
 # DESCRIPCIÓN DE PROYECTO:
 
